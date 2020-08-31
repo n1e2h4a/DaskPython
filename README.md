@@ -21,7 +21,7 @@ The naive read-all-the-data Pandas code and the Dask code are quite similar. So 
 
 # Peak memory use	Wallclock time	CPU time
 
-Pandas (chunked)	26 MiB	5.9 seconds	6.1 seconds
-Pandas (naive)	334 MiB	6.7 seconds	6.9 seconds
-Dask	88 MiB	3.9 seconds	6.5 seconds
+  # Pandas (chunked)	26 MiB	5.9 seconds	6.1 seconds
+  # Pandas (naive)	334 MiB	6.7 seconds	6.9 seconds
+  # Dask	88 MiB	3.9 seconds	6.5 seconds
 
